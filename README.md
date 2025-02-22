@@ -75,3 +75,6 @@ To drive long-term growth, **AdventureWorks** should **expand in high-growth mar
 
 
 ![Dashboard_1](https://github.com/user-attachments/assets/7cfdc056-add0-4d20-803d-ca087f1cf735)
+
+![Advework 2nd dashScreenshot_22-2-2025_11236_public tableau com](https://github.com/user-attachments/assets/4f4e6e73-4476-48ca-a54c-5f3403b1c989)
+
