@@ -24,7 +24,7 @@ AdventureWorks should expand in high-growth markets like the Pacific region and 
 ## Tags: BigQuery, Data Analysis, GoogleSheets, SQL, Tableau, Visualization
 
 ## Links: 
-[GoogleSheets](https://docs.google.com/spreadsheets/d/1aXOVFsOEsqmVp-5GGSbctGK8ocCcsX2C/edit?usp=sharing&ouid=112581511110867137896&rtpof=true&sd=true) , [Tableau](https://public.tableau.com/app/profile/kay.afu/viz/AdventureWorksSalesPerformance_17027335051290/Dashboard1?publish=yes)
+[GoogleSheets](https://docs.google.com/spreadsheets/d/1aXOVFsOEsqmVp-5GGSbctGK8ocCcsX2C/edit?usp=sharing&ouid=112581511110867137896&rtpof=true&sd=true) , [Tableau](https://public.tableau.com/app/profile/kay.afu/viz/AdventureWorksSalesPerformance_17027335051290/Dashboard1?publish=yes) [Tableau_SalesTeam](https://public.tableau.com/app/profile/kay.afu/viz/AdventureWorksPresentation_17053960936150/Presentation) 
 
 ## PROCESSES:
 
