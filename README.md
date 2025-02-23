@@ -1,3 +1,6 @@
+
+![Adventureworks 25 logo 4](https://github.com/user-attachments/assets/b221a6da-ab26-48fa-9cb6-7b21a939f092)
+
 # [AdventureWorks Sales Dashboard](https://victorious-tangerine-c8c.notion.site/1a0ecb12178880f4a7ffc25589177e58?v=1a0ecb121788803393c4000cd7975158&p=1a0ecb121788804e8469e6dca22f4f06&pm=c) 🚴
 
 ## Description
