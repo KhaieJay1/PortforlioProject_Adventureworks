@@ -21,10 +21,6 @@ North America generated the highest revenue, with sales peaking in 2003, while t
 ## Recommendations 
 AdventureWorks should expand in high-growth markets like the Pacific region and improve penetration in Germany and France while optimizing sales strategies in top-performing regions to maximize revenue. Enhancing product strategy, sales team performance, customer insights, and e-commerce presence, along with continuous KPI monitoring, will drive long-term growth and competitiveness.
 
-## Tags: BigQuery, Data Analysis, GoogleSheets, SQL, Tableau, Visualization
-
-## Links: 
-[GoogleSheets](https://docs.google.com/spreadsheets/d/1aXOVFsOEsqmVp-5GGSbctGK8ocCcsX2C/edit?usp=sharing&ouid=112581511110867137896&rtpof=true&sd=true) , [Tableau](https://public.tableau.com/app/profile/kay.afu/viz/AdventureWorksSalesPerformance_17027335051290/Dashboard1?publish=yes) [Tableau_SalesTeam](https://public.tableau.com/app/profile/kay.afu/viz/AdventureWorksPresentation_17053960936150/Presentation) 
 
 ## PROCESSES:
 
@@ -81,3 +77,7 @@ To drive long-term growth, **AdventureWorks** should **expand in high-growth mar
 
 ![Advework 2nd dashScreenshot_22-2-2025_11236_public tableau com](https://github.com/user-attachments/assets/4f4e6e73-4476-48ca-a54c-5f3403b1c989)
 
+
+### Links: 
+[GoogleSheets](https://docs.google.com/spreadsheets/d/1aXOVFsOEsqmVp-5GGSbctGK8ocCcsX2C/edit?usp=sharing&ouid=112581511110867137896&rtpof=true&sd=true) , [Tableau](https://public.tableau.com/app/profile/kay.afu/viz/AdventureWorksSalesPerformance_17027335051290/Dashboard1?publish=yes) [Tableau_SalesTeam](https://public.tableau.com/app/profile/kay.afu/viz/AdventureWorksPresentation_17053960936150/Presentation) 
+## Tags: BigQuery, Data Analysis, GoogleSheets, SQL, Tableau, Visualization
